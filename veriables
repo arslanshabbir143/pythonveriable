@@ -1,0 +1,14 @@
+print("Hello World")
+print("My name is Arslan Shabbir")
+x=10
+print(x)
+x=20
+print(x)
+y="Arslan"
+print(x,y)
+print(type(x))
+print(type(y))
+fruit = "Magoes"
+print(fruit)
+fuit_basket = 10
+print(fuit_basket)
